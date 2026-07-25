@@ -1,0 +1,80 @@
+<svg width="420" height="360" viewBox="0 0 420 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="laptopGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A5CFF"/>
+      <stop offset="100%" stop-color="#6D4AFF"/>
+    </linearGradient>
+    <linearGradient id="screenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b2e"/>
+      <stop offset="100%" stop-color="#2a2440"/>
+    </linearGradient>
+  </defs>
+
+  <!-- floating background circles -->
+  <circle cx="50" cy="60" r="30" fill="#8A5CFF" opacity="0.12">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="370" cy="300" r="40" fill="#C86DD7" opacity="0.12">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 14;0 0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- laptop base -->
+  <rect x="90" y="230" width="240" height="14" rx="6" fill="url(#laptopGrad)"/>
+  <rect x="70" y="240" width="280" height="8" rx="4" fill="#4a3a8a"/>
+
+  <!-- laptop screen -->
+  <rect x="110" y="70" width="200" height="160" rx="10" fill="url(#laptopGrad)"/>
+  <rect x="122" y="82" width="176" height="136" rx="4" fill="url(#screenGrad)"/>
+
+  <!-- code lines animated -->
+  <rect x="136" y="98" width="60" height="8" rx="3" fill="#8A5CFF">
+    <animate attributeName="width" values="60;90;60" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="136" y="114" width="100" height="8" rx="3" fill="#C86DD7">
+    <animate attributeName="width" values="100;70;100" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="150" y="130" width="80" height="8" rx="3" fill="#8A5CFF">
+    <animate attributeName="width" values="80;110;80" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="136" y="146" width="120" height="8" rx="3" fill="#C86DD7">
+    <animate attributeName="width" values="120;90;120" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="150" y="162" width="70" height="8" rx="3" fill="#8A5CFF">
+    <animate attributeName="width" values="70;100;70" dur="3.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- blinking cursor on screen -->
+  <rect x="225" y="162" width="6" height="8" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- floating design/figma-like shape (top right) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3.5s" repeatCount="indefinite"/>
+    <rect x="320" y="40" width="46" height="46" rx="10" fill="#ffffff" stroke="#8A5CFF" stroke-width="3"/>
+    <circle cx="343" cy="63" r="10" fill="#C86DD7"/>
+  </g>
+
+  <!-- floating pencil/design tool (left) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 60 180;10 60 180;0 60 180" dur="3s" repeatCount="indefinite"/>
+    <rect x="45" y="150" width="14" height="60" rx="4" fill="#C86DD7" transform="rotate(45 60 180)"/>
+    <rect x="45" y="140" width="14" height="16" rx="3" fill="#8A5CFF" transform="rotate(45 60 180)"/>
+  </g>
+
+  <!-- floating color palette dots (bottom left) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="4s" repeatCount="indefinite"/>
+    <circle cx="65" cy="290" r="10" fill="#6D4AFF"/>
+    <circle cx="90" cy="300" r="10" fill="#8A5CFF"/>
+    <circle cx="115" cy="290" r="10" fill="#C86DD7"/>
+  </g>
+
+  <!-- sparkles -->
+  <text x="360" y="150" font-size="20" fill="#C86DD7" opacity="0.8">✦
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <text x="30" y="110" font-size="16" fill="#8A5CFF" opacity="0.7">✦
+    <animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+</svg>
