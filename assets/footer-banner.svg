@@ -1,0 +1,25 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C86DD7">
+        <animate attributeName="stop-color" values="#C86DD7;#6D4AFF;#8A5CFF;#C86DD7" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#6D4AFF">
+        <animate attributeName="stop-color" values="#6D4AFF;#8A5CFF;#C86DD7;#6D4AFF" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 L900,0 L900,90 Q450,130 0,90 Z" fill="url(#footGrad)"/>
+  <text x="450" y="55" font-family="Poppins, Verdana, sans-serif" font-size="22" font-weight="600" fill="#ffffff" text-anchor="middle">
+    Thanks for visiting my profile! ✨
+  </text>
+  <circle cx="150" cy="40" r="4" fill="#ffffff" opacity="0.7">
+    <animate attributeName="cy" values="40;25;40" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="35" r="5" fill="#ffffff" opacity="0.6">
+    <animate attributeName="cy" values="35;50;35" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="20" r="3" fill="#ffffff" opacity="0.8">
+    <animate attributeName="cy" values="20;35;20" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
