@@ -2,7 +2,7 @@
 
 <img src="assets/header-banner.svg" width="100%" />
 
-<img src="assets/profile-photo.jpg" width="160" style="border-radius: 50%; border: 5px solid #8A5CFF; box-shadow: 0 0 25px #8A5CFF; margin-top: -15px;" />
+<img src="assets/profile-photo.svg" width="160" style="border-radius: 50%; border: 5px solid #8A5CFF; box-shadow: 0 0 25px #8A5CFF; margin-top: -15px;" />
 
 <br/><br/>
 
