@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/riya-yadav-758008378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yadavriya2483@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6D4AFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="tel:+917302280439"><img src="https://img.shields.io/badge/Call-+91_7302280439-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -84,7 +84,9 @@ Responsive platform for pet wellness, vaccination & disease-awareness info — H
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 
 </td>
 <td width="50%">
@@ -97,7 +99,7 @@ Donor registration, donor search & emergency blood-donation info, powered by RES
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
 
 </td>
 </tr>
@@ -175,7 +177,7 @@ Complete redesign focused on modern aesthetics, clarity & usability.
 
 ## 🤝 Let's Connect & Build Something Great
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/riya-yadav-758008378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yadavriya2483@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-Visit-6D4AFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
