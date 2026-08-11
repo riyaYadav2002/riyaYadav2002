@@ -26,16 +26,15 @@
 👤 name: "Riya Yadav"
 🎯 role: "Front-End Developer & UI/UX Designer"
 🎓 education: "MCA @ Devbhoomi Uttarakhand University (2024-2026)"
-🔭 currently seeking opportunity in the field of software developer.
-🌱 Solved 50+ SQL Questions on Leetcode.
+🔭 Open to work : currently seeking opportunity in the field of software developer.
+🌱 LeetCode : Solved 50+ SQL Questions on Leetcode.
 💬 ask_me_about: ["UI/UX", "Front-End Dev", "Figma"]
 ⚡ fun_fact: "I turn rough sketches into pixel-perfect interfaces"
 ```
 
-- 🎓 Recently completed **MCA** — Devbhoomi Uttarakhand University, Dehradun
-- 💻 B.Sc. Computer Science — CCS University, Meerut *(CGPA: 7.58)*
+- 🎓 Recently completed **MCA** — Devbhoomi Uttarakhand University, Dehradun *(CGPA: 7.21)*
+- 💻 B.Sc. Computer Science — CCS University, Meerut *(percentage: 72)*
 - 🧠 Ex **UI/UX Designing Intern** — wireframes, prototypes & hi-fi mockups
-- 🎨 Obsessed with clean, responsive, accessible interfaces
 - 📫 **yadavriya2483@gmail.com**
 
 </td>
@@ -140,7 +139,7 @@ Complete redesign focused on modern aesthetics, clarity & usability.
 `Jan 2026 – Apr 2026`
 
 - Worked on real-world UI/UX projects focused on usability & user engagement
-- Designed responsive layouts using **Figma** and **Framer**
+- Designed responsive layouts using **Figma**
 - Created wireframes, prototypes, and high-fidelity mockups
 - Applied UX principles: accessibility, consistency, visual hierarchy
 
