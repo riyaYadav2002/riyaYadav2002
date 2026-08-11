@@ -28,8 +28,7 @@
 🎓 education: "MCA @ Devbhoomi Uttarakhand University (2024-2026)"
 🔭 Open to work : currently seeking opportunity in the field of software developer.
 🌱 LeetCode : Solved 50+ SQL Questions on Leetcode.
-💬 ask_me_about: ["UI/UX", "Front-End Dev", "Figma"]
-⚡ fun_fact: "I turn rough sketches into pixel-perfect interfaces"
+💬 ask_me_about: ["html","Css","JS","react.js","SQL","Python","Figma","Basic DSA","DBMS","Networking","OS"]
 ```
 
 - 🎓 Recently completed **MCA** — Devbhoomi Uttarakhand University, Dehradun *(CGPA: 7.21)*
@@ -159,15 +158,20 @@ Complete redesign focused on modern aesthetics, clarity & usability.
 | Responsive Web Design | freeCodeCamp.org |
 | Python | freeCodeCamp.org |
 
-</div>
-
-<img src="assets/divider.svg" width="100%" />
-
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+<h2 align="center">📊 GitHub &amp; LeetCode Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&background=0D1117" width="65%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaYadav2002&theme=tokyonight&hide_border=true&background=0D1117" width="65%" />
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/Riya_Yadav7529?theme=dark&font=Poppins&ext=heatmap" width="65%" />
+
+<br/><br/>
+
+<a href="https://github.com/riyaYadav2002" target="_blank"><img src="https://img.shields.io/badge/View%20My%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Riya_Yadav7529/" target="_blank"><img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 </div>
 
