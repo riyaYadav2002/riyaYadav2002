@@ -50,7 +50,7 @@
 
   <!-- typing subtitle with blinking cursor -->
   <text x="450" y="155" font-family="Poppins, Verdana, sans-serif" font-size="20" fill="#f1e9ff" text-anchor="middle">
-    Front-End Developer • UI/UX Designer • Creative Coder
+    MCA • Front-End Developer • React.js • SQL • Python • UI/UX Designer • Figma 
   </text>
   <rect x="622" y="163" width="3" height="20" fill="#ffffff">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
