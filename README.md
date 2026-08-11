@@ -61,7 +61,6 @@
 <img src="assets/skill-javascript.svg" width="70%" /><br/>
 <img src="assets/skill-reactjs.svg" width="70%" /><br/>
 <img src="assets/skill-figma--ui-ux-design.svg" width="70%" /><br/>
-<img src="assets/skill-nodejs--express.svg" width="70%" /><br/>
 <img src="assets/skill-python.svg" width="70%" /><br/>
 <img src="assets/skill-sql.svg" width="70%" />
 
