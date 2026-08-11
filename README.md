@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/riya-yadav-758008378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yadavriya2483@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6D4AFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://riyayadav2002.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6D4AFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="tel:+917302280439"><img src="https://img.shields.io/badge/Call-+91_7302280439-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
@@ -26,13 +26,13 @@
 👤 name: "Riya Yadav"
 🎯 role: "Front-End Developer & UI/UX Designer"
 🎓 education: "MCA @ Devbhoomi Uttarakhand University (2024-2026)"
-🔭 currently_working: "UI/UX Designing Intern @ TechnoHacks Solutions"
-🌱 learning: ["Advanced React", "Node.js", "Design Systems"]
+🔭 currently seeking opportunity in the field of software developer.
+🌱 Solved 50+ SQL Questions on Leetcode.
 💬 ask_me_about: ["UI/UX", "Front-End Dev", "Figma"]
 ⚡ fun_fact: "I turn rough sketches into pixel-perfect interfaces"
 ```
 
-- 🎓 Pursuing **MCA** — Devbhoomi Uttarakhand University, Dehradun
+- 🎓 Recently completed **MCA** — Devbhoomi Uttarakhand University, Dehradun
 - 💻 B.Sc. Computer Science — CCS University, Meerut *(CGPA: 7.58)*
 - 🧠 Ex **UI/UX Designing Intern** — wireframes, prototypes & hi-fi mockups
 - 🎨 Obsessed with clean, responsive, accessible interfaces
@@ -158,6 +158,7 @@ Complete redesign focused on modern aesthetics, clarity & usability.
 | O Level *(IT Tools, Web Design, Python, IoT)* | NIELIT, Government of India |
 | UI/UX Strategy | UniAthena (CIQ, UK) |
 | Responsive Web Design | freeCodeCamp.org |
+| Python | freeCodeCamp.org |
 
 </div>
 
@@ -179,7 +180,7 @@ Complete redesign focused on modern aesthetics, clarity & usability.
 
 <a href="https://www.linkedin.com/in/riya-yadav-758008378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:yadavriya2483@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-Visit-6D4AFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://riyayadav2002.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-6D4AFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 ### ⭐ *"Design is intelligence made visible."*
 
